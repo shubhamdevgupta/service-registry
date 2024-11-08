@@ -5,4 +5,4 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
 server:
-  port: 8070
+  port: 8761
